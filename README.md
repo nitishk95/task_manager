@@ -14,8 +14,8 @@ Built as part of an internship assignment to demonstrate:
 
 ## 🌐 Live Demo
 
-Frontend: https://your-frontend-link.vercel.app  
-Backend API: https://your-backend-link.onrender.com/api/tasks
+Frontend: (https://task-manager-rose-ten-93.vercel.app/)
+Backend API:
 
 ---
 
@@ -76,7 +76,6 @@ MONGO_URI=your_mongodb_connection_string
 
 
 start backend
-
 npm run dev
 
 
