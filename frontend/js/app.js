@@ -1,4 +1,4 @@
-const API_URL = "https://task-manager-api-ag04.onrender.com/api/task";
+const API_URL = "https://task-manager-api-ag04.onrender.com/api/tasks";
 
 const taskForm = document.getElementById("taskForm");
 const taskList = document.getElementById("taskList");
